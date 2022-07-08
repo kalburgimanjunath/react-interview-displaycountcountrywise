@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+.sidebar {
+  width: 20%;
+  border-right: '1px solid #d6d6d6';
+}
+.content_area {
+  width: 80%;
+}
